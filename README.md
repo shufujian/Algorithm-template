@@ -9,4 +9,6 @@
 | 差分数组 | HackerRankArray.cpp |
 |  前缀和  |     PreSum.cpp      |
 | 树状数组 |       BIT.cpp       |
+|  离散化  | Discretization.cpp  |
+|  素数筛  |      Prime.cpp      |
 
