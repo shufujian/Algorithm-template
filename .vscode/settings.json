@@ -17,6 +17,7 @@
         "chrono": "cpp",
         "random": "cpp",
         "limits": "cpp",
-        "climits": "cpp"
+        "climits": "cpp",
+        "any": "cpp"
     }
 }
