@@ -1,6 +1,6 @@
 /*
     迪杰斯特拉 dijkstra
-    单源最短路劲，source为源点，dis为到各个点的最短路
+    单源最短路径，source为源点，dis为到各个点的最短路
 */
 
 #define ll long long
