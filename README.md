@@ -12,4 +12,5 @@
 |           离散化           | Discretization.cpp  |
 |           素数筛           |      Prime.cpp      |
 | 迪杰斯特拉（单源最短路径） |    Dijkstra.cpp     |
+|           二分查找        |   BinarySearch.cpp    |
 
