@@ -18,6 +18,8 @@
         "random": "cpp",
         "limits": "cpp",
         "climits": "cpp",
-        "any": "cpp"
+        "any": "cpp",
+        "bitset": "cpp",
+        "utility": "cpp"
     }
 }
