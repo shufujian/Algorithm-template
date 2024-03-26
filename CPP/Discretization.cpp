@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 /*
     离散化 Discretization Discipline
     只关心数据的 大小关系 ，使用 排名 代替原数据 来进行预处理

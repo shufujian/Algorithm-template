@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 /*
     埃氏筛 Eratosthenes
     在 O(n lglgn)内计算范围内的所有素数

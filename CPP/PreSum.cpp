@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 
 /*
     前缀和 Pre Sum

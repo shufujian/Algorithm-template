@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 /*
     差分数组 HackerRank Array
     用于对数组区间进行加减

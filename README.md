@@ -11,7 +11,7 @@
 |          树状数组          |       BIT.cpp       |                 |
 |           离散化           | Discretization.cpp  |                 |
 |           素数筛           |      Prime.cpp      |                  |
-| 迪杰斯特拉（单源最短路径） |    Dijkstra.cpp     |                 |
+| 迪杰斯特拉（单源最短路径） |    Dijkstra.cpp     |    Dijkstra.py   |
 |           二分查找        |   BinarySearch.cpp    |                |
 |           字典树        |   Trie.cpp    |        Trie.py         |
 

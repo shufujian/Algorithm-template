@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 /*
     二分查找 Binary Search
     用于在已排序数组中快速查找符合要求的数
